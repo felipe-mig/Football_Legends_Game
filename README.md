@@ -1,2 +1,4 @@
 # Football_Legends_Game
-In this project I built a game using Python in which the user will guess which football legend has more goals with the national team.
+The computer will display two players, PLAYER A and PLAYER B. The user must select one of these by typing 'A' or 'B'.
+Each correct answer in each round adds one point to the score. The game ends when the user chooses the wrong answer.
+
